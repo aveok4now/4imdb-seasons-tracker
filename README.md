@@ -4,4 +4,4 @@ Lightweight microservice designed to monitor and notify about announcements for 
 ## Acknowledgments
 
 *   [goquery](https://github.com/PuerkitoBio/goquery) - For HTML parsing.
-*   [robfig/cron](https://github.com/robfig/cron/v3) - For scheduling tasks.
+*   [robfig/cron](https://github.com/robfig/cron) - For scheduling tasks.
